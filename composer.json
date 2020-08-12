@@ -1,0 +1,8 @@
+{
+    "require": {
+        "coffeecode/router": "1.0.*"
+    },
+    "config": {
+        "vendor-dir": "lib/"
+    }
+}
